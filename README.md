@@ -11,3 +11,16 @@ QA Engineer с бэкграундом спортсмена-парашютист�
 - :zap: Прохожу коммерческую практику на курсах Вадима Ксендзова
 
 - :mailbox: Мои контакты: [![Telegram Badge](https://img.shields.io/badge/-AN_Klimov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AN_Klimov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:an.kllimov@gmail.com)
+
+---
+
+### 💻 Владею следующими нструментами:
+
+- Postman (создание запросов, коллекций, написание автотестов)
+- SoapUI
+- JavaScript (функции, циклы, объекты)
+- SQL (select, join, update, delete)
+- Git (grep, find, push/pull, clone, branch)
+- DevTools
+- Charles Proxy (rewrite, breakpoint)
+- Jmeter
