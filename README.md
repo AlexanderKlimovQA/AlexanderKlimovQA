@@ -19,8 +19,7 @@ QA Engineer с бэкграундом спортсмена-парашютист�
 - [Postman](https://github.com/AlexanderKlimovQA/31QAgroup/tree/main/Postman) (создание запросов, коллекций, написание автотестов)
 - SoapUI
 - [JavaScript](https://github.com/AlexanderKlimovQA/31QAgroup/tree/main/JavaScript/VadimCourse) (функции, циклы, объекты)
-- [SQL](https://github.com/AlexanderKlimovQA/31QAgroup/tree/main/SQL) (select, join, update, delete, подзапросы)
- - https://stepik.org/cert/1894226
+- [SQL](https://github.com/AlexanderKlimovQA/31QAgroup/tree/main/SQL) (select, join, update, delete, подзапросы) [Сертификат курса на Stepik]( https://stepik.org/cert/1894226)
 - Git (grep, find, push/pull, clone, branch)
 - DevTools
 - Charles Proxy (rewrite, breakpoint)
