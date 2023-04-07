@@ -18,8 +18,8 @@ QA Engineer с бэкграундом спортсмена-парашютист�
 
 - [Postman](https://github.com/AlexanderKlimovQA/31QAgroup/tree/main/Postman) (создание запросов, коллекций, написание автотестов)
 - SoapUI
-- JavaScript (функции, циклы, объекты)
-- SQL (select, join, update, delete, подзапросы)
+- [JavaScript](https://github.com/AlexanderKlimovQA/31QAgroup/tree/main/JavaScript/VadimCourse) (функции, циклы, объекты)
+- [SQL](https://github.com/AlexanderKlimovQA/31QAgroup/tree/main/SQL) (select, join, update, delete, подзапросы)
 - Git (grep, find, push/pull, clone, branch)
 - DevTools
 - Charles Proxy (rewrite, breakpoint)
