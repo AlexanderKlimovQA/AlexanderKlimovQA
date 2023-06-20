@@ -21,6 +21,6 @@ QA Engineer с бэкграундом спортсмена-парашютист�
 - [JavaScript](https://github.com/AlexanderKlimovQA/31QAgroup/tree/main/JavaScript/VadimCourse) (функции, циклы, объекты)
 - [SQL](https://github.com/AlexanderKlimovQA/31QAgroup/tree/main/SQL) (select, join, update, delete, подзапросы) [Сертификат курса на Stepik]( https://stepik.org/cert/1894226)
 - Git (grep, find, push/pull, clone, branch)
-- DevTools
+- [DevTools] (https://github.com/AlexanderKlimovQA/31QAgroup/blob/main/DevToolsHW.txt)
 - Charles Proxy (rewrite, breakpoint)
 - Jmeter
