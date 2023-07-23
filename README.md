@@ -16,7 +16,7 @@ QA Engineer с бэкграундом спортсмена-парашютист�
 
 ### 🛠 Инструменты:
 
-- [Postman](https://github.com/AlexanderKlimovQA/31QAgroup/tree/main/Postman) (создание запросов, коллекций, написание автотестов)
+- [Postman](https://github.com/AlexanderKlimovQA/31QAgroup/tree/main/Postman) (написание автотестов, валидация схем JSON, итерирование полученных данных)
 - SoapUI
 - [JavaScript](https://github.com/AlexanderKlimovQA/31QAgroup/tree/main/JavaScript/VadimCourse) (функции, циклы, объекты)
 - HTML/CSS
